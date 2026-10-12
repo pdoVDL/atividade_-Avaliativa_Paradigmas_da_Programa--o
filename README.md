@@ -125,4 +125,4 @@ antes de aplicar os outros critérios de desempate.
 |------------------------------|--------------|
 | Pedro Vinicius cardoso vidal | PREENCHER |
 | Bruno Rafael Nery Ferreira   |Revisor de codigo e escritor do Readme
-| Bernardo Neto da Silva Santos | Dev e Tester |
+| Bernardo Neto da Silva Santos | Tester |
