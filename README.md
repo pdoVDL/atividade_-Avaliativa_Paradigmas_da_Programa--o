@@ -9,7 +9,7 @@ Professor: Rodrigo Medeiros Costa
 | Nome | GitHub |
 |------|--------|
 | NOME 1 | @usuario1 |
-| NOME 2 | @bnd-sants |
+| Bernardo Neto da Silva Santos - 04154707 | @bnd-sants |
 | NOME 3 | @Brunildo-AK |
 
 
@@ -125,4 +125,4 @@ antes de aplicar os outros critérios de desempate.
 |------------------------------|--------------|
 | Pedro Vinicius cardoso vidal | PREENCHER |
 | Bruno Rafael Nery Ferreira   |Revisor de codigo e escritor do Readme
-| NOME 3 | PREENCHER           |
+| Bernardo Neto da Silva Santos | Dev e Tester |
