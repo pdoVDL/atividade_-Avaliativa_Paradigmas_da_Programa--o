@@ -9,7 +9,7 @@ Professor: Rodrigo Medeiros Costa
 | Nome | GitHub |
 |------|--------|
 | pedro vinicius cardoso vidal | @pdoVDL|
-| Bernardo Neto da Silva Santos - 04154707 | @bnd-sants |
+| Bernardo Neto da Silva Santos | @bnd-sants |
 | Bruno Rafael Nery Ferreira| @Brunildo-AK |
 
 
@@ -129,4 +129,4 @@ antes de aplicar os outros critérios de desempate.
 |------------------------------|--------------|-----------------------
 | Pedro Vinicius cardoso vidal | desenvolvedor do codigo |04164494
 | Bruno Rafael Nery Ferreira   |Revisor de codigo e escritor do Readme|04161964
-| Bernardo Neto da Silva Santos | Tester |
+| Bernardo Neto da Silva Santos | Tester | 04154707
