@@ -8,9 +8,9 @@ Professor: Rodrigo Medeiros Costa
 
 | Nome | GitHub |
 |------|--------|
-| NOME 1 | @usuario1 |
+| pedro vinicius cardoso vidal | @pdoVDL|
 | Bernardo Neto da Silva Santos - 04154707 | @bnd-sants |
-| NOME 3 | @Brunildo-AK |
+| Bruno Rafael Nery Ferreira| @Brunildo-AK |
 
 
 ## 1. Descrição do problema
@@ -121,8 +121,8 @@ antes de aplicar os outros critérios de desempate.
 
 ## 5. Contribuição dos integrantes
 
-| Integrante                   | Participação |
-|------------------------------|--------------|
-| Pedro Vinicius cardoso vidal | PREENCHER |
-| Bruno Rafael Nery Ferreira   |Revisor de codigo e escritor do Readme
+| Integrante                   | Participação |      matricula      |
+|------------------------------|--------------|-----------------------
+| Pedro Vinicius cardoso vidal | desenvolvedor do codigo |04164494
+| Bruno Rafael Nery Ferreira   |Revisor de codigo e escritor do Readme|04161964
 | Bernardo Neto da Silva Santos | Tester |
